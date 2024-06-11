@@ -1,7 +1,6 @@
 # Subscription-Based Service Customer Churn Prediction
-- `wallpaper.png`
+![wallpaper](https://github.com/Rahulbhutna72400/Customer_Churn_Prediction/assets/114943689/ab7d361a-fd16-495c-8481-1bf442124e33)
 
-## Introduction
 In the highly competitive landscape of subscription-based services, customer retention is essential for sustained success. Customer churn, where customers cancel their subscriptions, poses a significant challenge to businesses. This project leverages machine learning to predict churn based on historical customer data, including demographics, usage behavior, and interaction patterns.
 
 By analyzing patterns and trends from historical customer data, businesses can identify the factors that most significantly influence customer decisions to leave. This predictive insight enables companies to implement targeted strategies to retain their customers, enhancing customer satisfaction and loyalty.
@@ -24,3 +23,5 @@ By analyzing patterns and trends from historical customer data, businesses can i
    ```bash
    git clone https://github.com/yourusername/churn-prediction.git
    cd churn-prediction
+
+   
