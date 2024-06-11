@@ -1,4 +1,5 @@
 # Subscription-Based Service Customer Churn Prediction
+- `wallpaper.png`
 
 ## Introduction
 In the highly competitive landscape of subscription-based services, customer retention is essential for sustained success. Customer churn, where customers cancel their subscriptions, poses a significant challenge to businesses. This project leverages machine learning to predict churn based on historical customer data, including demographics, usage behavior, and interaction patterns.
